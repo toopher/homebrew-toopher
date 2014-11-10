@@ -2,7 +2,7 @@ require 'formula'
 
 class GoogleAppEngine174 < Formula
   homepage 'https://developers.google.com/appengine/'
-  url 'https://www.dropbox.com/s/1lgegp625r4kqx3/google_appengine_1.7.4.zip?dl=1'
+  url 'http://inside.toopher.com/static/google_appengine_1.7.4.zip'
   sha1 '05eaddb534e3cb1d002cdaa529ff75ef36a30026'
 
   def install
