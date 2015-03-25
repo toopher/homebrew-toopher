@@ -1,6 +1,6 @@
 require "formula"
 
-class AppscaleTools < Formula
+class AppscaleTools20 < Formula
   homepage "https://github.com/AppScale/appscale-tools"
   url "https://github.com/AppScale/appscale-tools/archive/2.0.0.tar.gz"
   sha1 "d6855bd6e91b56fd07d7bf59f81ea6cdd1a482b8"
